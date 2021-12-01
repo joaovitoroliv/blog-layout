@@ -1,0 +1,46 @@
+h1 {
+    background-color: lightskyblue;
+    margin-bottom: 0;
+    height: 60px;
+}
+
+nav {
+    background-color: orange;
+    height: 40px;
+    margin-top: 0;
+}
+
+header {
+    background-color: lightskyblue;
+}
+
+section {
+    background-color: gray;
+}
+
+article header h1 {
+    height: auto;
+}
+
+main article section {
+    margin: 50px 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: black;
+}
+
+footer section{
+    background-color: gray;
+    display: block;
+    margin: 0% 10%;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+}
+
+a {
+    color: purple;
+}
+
